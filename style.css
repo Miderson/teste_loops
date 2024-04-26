@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#melhorTime {
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+#resposta {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
